@@ -6,13 +6,13 @@ This repository presents a comprehensive **sentiment analysis project** using **
 
 ## 📑 Table of Contents
 
-1. [📋 Project Overview](#project-overview)
-2. [📚 Models Used](#models-used)
-3. [🔧 Installation & Setup](#installation--setup)
-4. [📂 Data Preparation](#data-preparation)
-5. [🚀 Workflow](#workflow)
-6. [🔍 Results & Insights](#results--insights)
-7. [🙏 Acknowledgments](#acknowledgments)
+1. [📋 Project Overview](#-project-overview)
+2. [📚 Models Used](#-models-used)
+3. [🔧 Installation & Setup](#-installation--setup)
+4. [📂 Data Preparation](#-data-preparation)
+5. [🚀 Workflow](#-workflow)
+6. [🔍 Results & Insights](#-results--insights)
+7. [🙏 Acknowledgments](#-acknowledgments)
 8. [🔗 General Links & Resources](#-general-links--resources)
 
 ---
